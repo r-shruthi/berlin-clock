@@ -1,0 +1,8 @@
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\bin\Debug\BerlinClock.exe.config
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\bin\Debug\BerlinClock.exe
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\bin\Debug\BerlinClock.pdb
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\obj\Debug\BerlinClock.Resources.resources
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\obj\Debug\BerlinClock.csproj.GenerateResource.Cache
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\obj\Debug\BerlinClock.exe
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\BerlinClock\BerlinClock\obj\Debug\BerlinClock.pdb
